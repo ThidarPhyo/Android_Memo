@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android109memo</string>
+    <string name="btnSaveStr">SAVE</string>
+    <string name="edtMemoStr" />
+    <string name="btnLoadStr">Load</string>
+    <string name="btnAddStr">ADD</string>
+    <string name="txtHint">追加するメモを入力</string>
+    <string name="txtMemoListStr" />
+    <string name="dateStr" />
+    <string name="btnClear">AC</string>
+</resources>
